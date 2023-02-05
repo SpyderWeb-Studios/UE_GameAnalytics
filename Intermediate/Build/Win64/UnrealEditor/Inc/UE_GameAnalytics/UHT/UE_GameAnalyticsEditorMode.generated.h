@@ -1,0 +1,94 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "UE_GameAnalyticsEditorMode.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef UE_GAMEANALYTICS_UE_GameAnalyticsEditorMode_generated_h
+#error "UE_GameAnalyticsEditorMode.generated.h already included, missing '#pragma once' in UE_GameAnalyticsEditorMode.h"
+#endif
+#define UE_GAMEANALYTICS_UE_GameAnalyticsEditorMode_generated_h
+
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_SPARSE_DATA
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_RPC_WRAPPERS
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_ACCESSORS
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUUE_GameAnalyticsEditorMode(); \
+	friend struct Z_Construct_UClass_UUE_GameAnalyticsEditorMode_Statics; \
+public: \
+	DECLARE_CLASS(UUE_GameAnalyticsEditorMode, UEdMode, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/UE_GameAnalytics"), NO_API) \
+	DECLARE_SERIALIZER(UUE_GameAnalyticsEditorMode)
+
+
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_INCLASS \
+private: \
+	static void StaticRegisterNativesUUE_GameAnalyticsEditorMode(); \
+	friend struct Z_Construct_UClass_UUE_GameAnalyticsEditorMode_Statics; \
+public: \
+	DECLARE_CLASS(UUE_GameAnalyticsEditorMode, UEdMode, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/UE_GameAnalytics"), NO_API) \
+	DECLARE_SERIALIZER(UUE_GameAnalyticsEditorMode)
+
+
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UUE_GameAnalyticsEditorMode(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUE_GameAnalyticsEditorMode) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUE_GameAnalyticsEditorMode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUE_GameAnalyticsEditorMode); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UUE_GameAnalyticsEditorMode(UUE_GameAnalyticsEditorMode&&); \
+	NO_API UUE_GameAnalyticsEditorMode(const UUE_GameAnalyticsEditorMode&); \
+public:
+
+
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UUE_GameAnalyticsEditorMode(UUE_GameAnalyticsEditorMode&&); \
+	NO_API UUE_GameAnalyticsEditorMode(const UUE_GameAnalyticsEditorMode&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUE_GameAnalyticsEditorMode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUE_GameAnalyticsEditorMode); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUE_GameAnalyticsEditorMode)
+
+
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_17_PROLOG
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_SPARSE_DATA \
+	FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_RPC_WRAPPERS \
+	FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_ACCESSORS \
+	FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_INCLASS \
+	FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_SPARSE_DATA \
+	FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_ACCESSORS \
+	FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_INCLASS_NO_PURE_DECLS \
+	FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h_20_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> UE_GAMEANALYTICS_API UClass* StaticClass<class UUE_GameAnalyticsEditorMode>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Users_spyde_Perforce_ProjectMirror_AgentArachnid_depot_ProjectMirror_v9_Plugins_UE_GameAnalytics_Source_UE_GameAnalytics_Public_UE_GameAnalyticsEditorMode_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

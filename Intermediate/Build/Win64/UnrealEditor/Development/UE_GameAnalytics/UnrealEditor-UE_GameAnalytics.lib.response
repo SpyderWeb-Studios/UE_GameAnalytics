@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE_GameAnalytics.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\spyde\Perforce\ProjectMirror_AgentArachnid\depot\ProjectMirror_v9\Intermediate\Build\Win64\ProjectMirror_v9Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\spyde\Perforce\ProjectMirror_AgentArachnid\depot\ProjectMirror_v9\Plugins\UE_GameAnalytics\Intermediate\Build\Win64\UnrealEditor\Development\UE_GameAnalytics\Module.UE_GameAnalytics.cpp.obj"
+"C:\Users\spyde\Perforce\ProjectMirror_AgentArachnid\depot\ProjectMirror_v9\Plugins\UE_GameAnalytics\Intermediate\Build\Win64\UnrealEditor\Development\UE_GameAnalytics\Default.rc2.res"
+/OUT:"C:\Users\spyde\Perforce\ProjectMirror_AgentArachnid\depot\ProjectMirror_v9\Plugins\UE_GameAnalytics\Intermediate\Build\Win64\UnrealEditor\Development\UE_GameAnalytics\UnrealEditor-UE_GameAnalytics.lib"

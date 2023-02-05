@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UE_GameAnalytics.cpp.obj": [
+			"UE_GameAnalytics.init.gen.cpp.obj",
+			"UE_GameAnalyticsEditorMode.gen.cpp.obj",
+			"UE_GameAnalyticsInteractiveTool.gen.cpp.obj",
+			"UE_GameAnalyticsSimpleTool.gen.cpp.obj",
+			"UE_GameAnalyticsInteractiveTool.cpp.obj",
+			"UE_GameAnalyticsSimpleTool.cpp.obj",
+			"UE_GameAnalyticsEditorMode.cpp.obj",
+			"UE_GameAnalyticsEditorModeCommands.cpp.obj",
+			"UE_GameAnalyticsEditorModeToolkit.cpp.obj",
+			"UE_GameAnalyticsModule.cpp.obj"
+		]
+	}
+}
